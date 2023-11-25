@@ -1,4 +1,2 @@
-
-
-console.log("TASK 1");
+console.log("---== TASK 1 ==---");
 
